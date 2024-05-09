@@ -97,3 +97,7 @@ if __name__ == "__main__":
         sys.exit(str(e))
     
     print(main(arguments.balance_amount, arguments.apr, credit_line=arguments.credit_line, targetamount=arguments.payment, fees=arguments.fees))
+
+def name(name):
+    pass
+    
